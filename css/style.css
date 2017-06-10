@@ -1,4 +1,4 @@
- /* General classes for page */
+/* General classes for page */
 
 body {
   background-image: url("../images/grid.jpg");
@@ -110,4 +110,11 @@ body {
 .navbar-transparent .navbar-nav > .open > a:focus {
   color: white;
   background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* Maps display */
+
+#map{
+  width: 100%;
+  height: 400px;
 }
